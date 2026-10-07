@@ -1,2 +1,19 @@
-# Legends-Recomp
-Rayman Legends recomp (RexGlue SDK based)
+<p align="center">
+  <img src="icon.png" width="140" alt="icon">
+</p>
+
+# Origins Recomp
+
+Rayman Origins (Xbox 360) recompiled to run natively on Android, instead of through a full emulator.
+
+## Requirements
+
+- Your own legally obtained copy of Rayman Origins - no game files are included here.
+- Place the game's ".xex" file inside the "game/" folder.
+- Android phone with Vulkan support (Snapdragon 855 or newer recommended).
+
+## Status
+
+Runs well on the hardware tested so far. No wide compatibility testing has been done across different GPUs/drivers yet.
+
+Prebuilt APKs are attached to the [Releases](../../releases) page.
