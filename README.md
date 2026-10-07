@@ -2,9 +2,9 @@
   <img src="icon.png" width="140" alt="icon">
 </p>
 
-# Origins Recomp
+# Legends Recomp
 
-Rayman Origins (Xbox 360) recompiled to run natively on Android, instead of through a full emulator.
+Rayman Legends(Xbox 360) recompiled to run natively on Android, instead of through a full emulator.
 
 ## Requirements
 
